@@ -39,9 +39,12 @@ Suppose $PQ$ is a secant line of the graph of $f(x)$. We can find the slope of t
 The tangent line equals the limit of secant lines $PQ$ as $Q \to P$，here $P$ is fixed and $Q$ varies.
 
 
+### Clip 4: Slope as Ratio
 
+**Slope as Ratio**: While we are still thinking geometrically, we can now use symbols and formulas in our computation.
 
+![alt text](image-2.png)
 
-
+we start with a point $P =(x_0, f(x_0))$. We move over a tiny horizontal distance $\Delta x$
 
 
